@@ -1,0 +1,23 @@
+@media (max-width: 991px){
+
+	.menu ul{
+		display: none;
+	}
+
+	.mobile-icon{
+		display: block;
+		color: #ffffff;
+	}
+
+	.service{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+
+
+
+
+}
+
+
